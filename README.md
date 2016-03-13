@@ -4,10 +4,10 @@
 图片数据来源：<a href="http://gank.io/api">Gank.io</a>
 
 ##效果
-<img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/SwipFresh.png" width="100" height="60">
-<img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/loading.png" width="100" height="60">
-<img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/loaded.png" width="100" height="60">
-<img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/another.png" width="100" height="60">
+<img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/SwipFresh.png" width="300" height="200">
+<img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/loading.png" width="300" height="200">
+<img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/loaded.png" width="300" height="200">
+<img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/another.png" width="300" height="200">
 
 ##用到的知识点
 1.SwipeRefreshLayout的使用实现下来刷新
