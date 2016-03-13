@@ -36,7 +36,7 @@ public class BackgroundThread extends HandlerThread {
     public final static int MSG_REQUEST_BITMAP = 5;
 
     private ArrayList<Meizi> mDates;
-    private Map<ImageView,String> mRequestMap = Collections.synchronizedMap(new HashMap<ImageView,String>());
+    private Map<ImageView, String> mRequestMap = Collections.synchronizedMap(new HashMap<ImageView, String>());
     /**
      * 一次加载多少数据，默认10个
      */
@@ -100,7 +100,7 @@ public class BackgroundThread extends HandlerThread {
             final Bitmap bitmap = decodeBitMap(imageView, bytes);
             mLinstener.loadfinished(imageView, bitmap);
         } else {
-            mRequestMap.put(imageView,meizi.getUrl());
+            mRequestMap.put(imageView, meizi.getUrl());
             mSelfHandler.obtainMessage(MSG_REQUEST_BITMAP, imageView).sendToTarget();
         }
     }
