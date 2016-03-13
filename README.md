@@ -5,19 +5,23 @@
 
 ##效果
 ###刷新
+<p>
 <img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/SwipFresh.png" width="360" height="640">
-<img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/loading.png" width="360" height="640></br>
-###异步加载<
+<img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/loading.png" width="360" height="640>
+</p>
+###异步加载
+<p>
 <img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/loaded.png" width="360" height="640>
 <img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/loaded.png" width="360" height="640></br>
-
+</p>
 ##基本实现
+<p>
 1.SwipeRefreshLayout的使用实现下来刷新</br>
 2.CardView的使用实现圆角</br>
 3.LruCache实现图片的内存缓存<br>
 4.<a href="https://github.com/square/okhttp">OkHttp</a>的使用获取数据<br>
 5.图片的异步加载与压缩展示<br>
-
+</p>
 
 
 ##License
