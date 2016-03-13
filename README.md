@@ -13,7 +13,7 @@
 </p>
 
 ##效果
-<img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/loading.png" width="180" height="320>
-<img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/SwipFresh.png" width="180" height="320>
-<img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/loaded.png" width="180" height="320>
-<img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/loaded.png" width="180" height="320>
+<img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/loading.png">
+<img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/SwipFresh.png">
+<img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/loaded.png">
+<img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/loaded.png">
