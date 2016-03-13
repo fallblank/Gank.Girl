@@ -7,12 +7,9 @@
 ###刷新
 <p>
 <img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/SwipFresh.png" width="360" height="640">
-<img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/loading.png" width="360" height="640>
-</p>
-###异步加载
-<p>
 <img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/loaded.png" width="360" height="640>
-<img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/loaded.png" width="360" height="640></br>
+<img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/loading.png" width="360" height="640>
+<img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/loaded.png" width="360" height="640>
 </p>
 ##基本实现
 <p>
