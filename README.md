@@ -6,8 +6,12 @@
 ##效果
 <img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/SwipFresh.png" width="360" height="640">
 <img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/loading.png" width="360" height="640>
+</br>
 <img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/loaded.png" width="360" height="640>
 <img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/another.png" width="360" height="640>
+</br>
+
+
 
 ##用到的知识点
 1.SwipeRefreshLayout的使用实现下来刷新</br>
