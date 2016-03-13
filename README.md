@@ -6,28 +6,10 @@
 ##效果
 ###刷新
 <img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/SwipFresh.png" width="360" height="640">
-<img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/loading.png" width="360" height="640>
-###异步加载
+<img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/loading.png" width="360" height="640></br>
+###异步加载<
 <img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/loaded.png" width="360" height="640>
-<img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/loaded.png" width="360" height="640>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/loaded.png" width="360" height="640></br>
 
 ##基本实现
 1.SwipeRefreshLayout的使用实现下来刷新</br>
