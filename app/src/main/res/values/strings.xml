@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gank.Girl</string>
+    <string name="load_count">每次刷新加载图片数：</string>
+    <string name="setting">设置</string>
+</resources>
