@@ -4,8 +4,10 @@
 图片数据来源：<a href="http://gank.io/api">Gank.io</a>
 
 ##效果
+###刷新
 <img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/SwipFresh.png" width="360" height="640">
 <img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/loading.png" width="360" height="640>
+###异步加载
 <img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/loaded.png" width="360" height="640>
 <img src="https://raw.githubusercontent.com/fallblank/Gank.Girl/master/screenshot/loaded.png" width="360" height="640>
 
